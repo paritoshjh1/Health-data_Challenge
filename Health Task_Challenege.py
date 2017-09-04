@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
 # Health-data_Challenge
 import os
 import sys
